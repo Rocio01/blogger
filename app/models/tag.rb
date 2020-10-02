@@ -1,9 +1,10 @@
-class Tag < ApplicationRecord
-    has_many :taggings, dependent: :destroy
-    has_many :articles, through: :taggings
+# frozen_string_literal: true
 
-    def to_s
-        name
-      end
-    
+class Tag < ApplicationRecord
+  has_many :taggings, dependent: :destroy
+  has_many :articles, through: :taggings
+
+  def to_s
+    name
+    end
 end
