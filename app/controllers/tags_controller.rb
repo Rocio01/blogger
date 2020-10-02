@@ -12,5 +12,5 @@ class TagsController < ApplicationController
     @tag.destroy
     flash.notice = "Article '#{@tag.name} Destroyed!'"
     redirect_to tags_path
-   end
+  end
 end
