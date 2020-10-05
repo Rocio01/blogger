@@ -1,4 +1,4 @@
-# [OOP TIC TAC TOE ]
+# [BLOG]
 
 - In this project we created a simple blog system to learn the basics of Ruby on Rails including:
 
