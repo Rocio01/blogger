@@ -1,24 +1,68 @@
-# README
+# [BLOG]
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- In this project we created a simple blog system to learn the basics of Ruby on Rails including:
 
-Things you may want to cover:
+Models, Views, and Controllers (MVC)
+Data Structures & Relationships
+Routing
+Migrations
+Views with forms, partials, and helpers
+RESTful design
+Adding gems for extra features
 
-* Ruby version
+ 
+## Setup
 
-* System dependencies
+- Make a copy in your local enviroment(Clone the Git Repository)
 
-* Configuration
 
-* Database creation
+## Blog preview
 
-* Database initialization
+![screenshot](photo1.PNG)
 
-* How to run the test suite
+![screenshot](photo2.PNG)
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+## Built With
+
+- Ruby on Rails
+- Rubocop
+
+
+## Prerequisites
+
+- Browser (Google Chrome, Mozilla Firefox, Safari or any other browser)
+- Ruby on Rails
+
+## GitHub Repo
+
+-  https://github.com/Rocio01/blogger
+
+
+## Author
+
+👤 **Mohamed Sabry**
+
+- Github: [@mohamedSabry0](https://github.com/mohamedSabry0)
+- Twitter: []()
+- Linkedin: []()
+
+👤 **Rocio Martinez**
+
+- Github: [@Rocio01](https://github.com/Rocio01)
+- Twitter: [@rugiada8801](https://twitter.com/rugiada8801)
+- Linkedin: [zulma-martinez-5247a31a8](https://www.linkedin.com/in/zulma-martinez-5247a31a8/)
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse
+- Ruby on Rails
+- The Odin project
+- http://tutorials.jumpstartlab.com
+
